@@ -7,28 +7,35 @@ Electron React Boilerplate uses Electron, React, React Router, Webpack and React
 [page](https://electron-react-boilerplate.js.org/)    
 repo: https://github.com/electron-react-boilerplate/electron-react-boilerplate
 
+
+**React Native Starter 🚀** 
+A powerful react native starter template that bootstraps development of your mobile application. React Native Starter is a mobile application template with lots of built-in components like sidebar, navigation, form elements, etc - all you need to start building your mobile app faster.    
+[demo](https://play.google.com/store/apps/details?id=com.reactnativestarter.upd)   
+repo: https://github.com/flatlogic/react-native-starter  
+  
+
 **React Starter Kit**  
 The web's most popular front-end template for building web applications with React, Relay, and GraphQL.  
-repo: https://github.com/kriasoft/react-starter-kit
+repo: https://github.com/kriasoft/react-starter-kit  
 
 **react-boilerplate**   
 A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices 
-repo: https://github.com/react-boilerplate/react-boilerplate
+repo: https://github.com/react-boilerplate/react-boilerplate  
 
 **React + Three JS Boilerplate**    
 A minimilistic and extendable react + three js boilerplate to get you started with webgl in browser in no time.  
 [demo](https://react-three-boilerplate.herokuapp.com/)  
-repo: https://github.com/asjadanis/react-three-boilerplate
+repo: https://github.com/asjadanis/react-three-boilerplate  
 
 ## Nextjs
 **Next-js-Boilerplate**   
 🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.  
-repo: https://github.com/ixartz/Next-js-Boilerplate
+repo: https://github.com/ixartz/Next-js-Boilerplate  
 
 ## Vuejs
 **Vue Light Bootstrap Dashboard**   
 This project is a vue version of Light bootstrap dashboard designed for vue js. The dashboard includes Bootstrap 4, vue-router, chartist, google-maps and several other plugins/components.   
-repo: https://github.com/creativetimofficial/vue-light-bootstrap-dashboard
+repo: https://github.com/creativetimofficial/vue-light-bootstrap-dashboard  
 
 ## Nuxtjs
 
