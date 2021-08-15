@@ -21,6 +21,10 @@ repo: https://github.com/creativetimofficial/vue-light-bootstrap-dashboard
 
 
 ## Nodejs
+**Serverless Node.js Starter**      
+A Serverless starter that adds ES6, TypeScript, serverless-offline, linting, environment variables, and unit test support. Part of the Serverless Stack guide.   
+[demo](https://z6pv80ao4l.execute-api.us-east-1.amazonaws.com/dev/hello)   
+repo: https://github.com/AnomalyInnovations/serverless-nodejs-starter
 
 **Hackathon Starter**   
 A boilerplate for Node.js web applications.  
