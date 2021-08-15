@@ -10,7 +10,9 @@ https://github.com/ixartz/Next-js-Boilerplate
 
 
 ## Nodejs
-
+Nodejs API Server  
+Express / Nodejs Starter with JWT authentication, and SQLite persistance - Provided by AppSeed App Generator. Authentication Flow uses json web tokens via Passport library - passport-jwt strategy.  
+https://github.com/app-generator/api-server-nodejs
 
 ## Django
 Django Dashboard Boilerplate 
