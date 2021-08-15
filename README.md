@@ -2,6 +2,11 @@
 
 ## Reactjs
 
+**React-madboiler**   
+The boilerplate to create React application projects. The boilerplate includes everything you need and describes some additional useful things such as typescript and cypress.    
+repo: https://github.com/maddevsio/react-madboiler/?utm_source=blog&utm_medium=boilerplates
+
+
 **Electron React Boilerplate**  
 Electron React Boilerplate uses Electron, React, React Router, Webpack and React Fast Refresh.    
 [page](https://electron-react-boilerplate.js.org/)    
@@ -33,6 +38,12 @@ repo: https://github.com/asjadanis/react-three-boilerplate
 repo: https://github.com/ixartz/Next-js-Boilerplate  
 
 ## Vuejs
+
+**Vue 3 Mad Boiler** 
+A ready-made boilerplate to set up a Vue.JS project which includes the basic structure of styles, package of icons, configure the linter properly, etc.   
+repo: https://github.com/maddevsio/vue-madboiler/?utm_source=blog&utm_medium=boilerplates
+
+
 **Vue Light Bootstrap Dashboard**   
 This project is a vue version of Light bootstrap dashboard designed for vue js. The dashboard includes Bootstrap 4, vue-router, chartist, google-maps and several other plugins/components.   
 repo: https://github.com/creativetimofficial/vue-light-bootstrap-dashboard  
