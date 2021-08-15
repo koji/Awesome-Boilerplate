@@ -1,6 +1,9 @@
 # Awesome-Boilerplate
 
 ## Reactjs
+**react-boilerplate**   
+A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices 
+repo: https://github.com/react-boilerplate/react-boilerplate
 
 **React + Three JS Boilerplate**    
 A minimilistic and extendable react + three js boilerplate to get you started with webgl in browser in no time.  
