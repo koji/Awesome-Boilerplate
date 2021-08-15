@@ -12,10 +12,14 @@ https://github.com/asjadanis/react-three-boilerplate
 🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.  
 https://github.com/ixartz/Next-js-Boilerplate
 
+## Vuejs
+**Vue Light Bootstrap Dashboard**   
+This project is a vue version of Light bootstrap dashboard designed for vue js. The dashboard includes Bootstrap 4, vue-router, chartist, google-maps and several other plugins/components.   
+https://github.com/creativetimofficial/vue-light-bootstrap-dashboard
 
 ## Nodejs
 **Nodejs API Server**     
-Express / Nodejs Starter with JWT authentication, and SQLite persistance - Provided by AppSeed App Generator. Authentication Flow uses json web tokens via Passport library - passport-jwt strategy.  
+Express / Nodejs Starter with JWT authentication, and SQLite persistance - Provided by AppSeed App Generator. Authentication Flow uses json web tokens via Passport library - passport-jwt strategy.    
 https://github.com/app-generator/api-server-nodejs
 
 ## Django
