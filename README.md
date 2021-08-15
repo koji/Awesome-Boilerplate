@@ -33,6 +33,11 @@ A minimilistic and extendable react + three js boilerplate to get you started wi
 repo: https://github.com/asjadanis/react-three-boilerplate  
 
 ## Nextjs
+**Next-JS-Landing-Page-Starter-Template** 
+Landing Page Template built with Next JS 11+, Tailwind CSS 2.0 and TypeScript 
+[demo](https://creativedesignsguru.com/demo/nextjs-landing-page/)  
+repo: https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template   
+
 **Next-js-Boilerplate**   
 🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.  
 repo: https://github.com/ixartz/Next-js-Boilerplate  
