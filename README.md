@@ -33,6 +33,12 @@ A minimilistic and extendable react + three js boilerplate to get you started wi
 repo: https://github.com/asjadanis/react-three-boilerplate  
 
 ## Nextjs
+
+**solidity-nextjs-starter**   
+A full stack dApp starter built on Ethereum (Solidity) with Next.js (React)
+This repo contains boilerplate code for interacting with a simple smart contract from the client-side using Solidity, React and TailwindCSS.   
+repo: https://github.com/tomhirst/solidity-nextjs-starter     
+
 **Serverless-Boilerplate-Express-TypeScript**   
 🚀 Serverless Boilerplate is starter code for your backend and REST API based on Serverless framework with Express JS and TypeScript. ⚡️ Made with Serverless framework, Live reload, Offline support, ExpressJS, TypeScript, ESLint, Prettier, Husky, Lint-Staged, Dotenv, VSCode.     
 repo: https://github.com/ixartz/Serverless-Boilerplate-Express-TypeScript 
