@@ -1,6 +1,16 @@
 # Awesome-Boilerplate
 
 ## Reactjs
+
+**Electron React Boilerplate**  
+Electron React Boilerplate uses Electron, React, React Router, Webpack and React Fast Refresh.    
+[page](https://electron-react-boilerplate.js.org/)    
+repo: https://github.com/electron-react-boilerplate/electron-react-boilerplate
+
+**React Starter Kit**  
+The web's most popular front-end template for building web applications with React, Relay, and GraphQL.  
+repo: https://github.com/kriasoft/react-starter-kit
+
 **react-boilerplate**   
 A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices 
 repo: https://github.com/react-boilerplate/react-boilerplate
