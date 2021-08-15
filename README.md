@@ -33,8 +33,12 @@ A minimilistic and extendable react + three js boilerplate to get you started wi
 repo: https://github.com/asjadanis/react-three-boilerplate  
 
 ## Nextjs
+**Serverless-Boilerplate-Express-TypeScript**   
+🚀 Serverless Boilerplate is starter code for your backend and REST API based on Serverless framework with Express JS and TypeScript. ⚡️ Made with Serverless framework, Live reload, Offline support, ExpressJS, TypeScript, ESLint, Prettier, Husky, Lint-Staged, Dotenv, VSCode.     
+repo: https://github.com/ixartz/Serverless-Boilerplate-Express-TypeScript 
+
 **Next-JS-Landing-Page-Starter-Template** 
-Landing Page Template built with Next JS 11+, Tailwind CSS 2.0 and TypeScript 
+Landing Page Template built with Next JS 11+, Tailwind CSS 2.0 and TypeScript    
 [demo](https://creativedesignsguru.com/demo/nextjs-landing-page/)  
 repo: https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template   
 
