@@ -33,6 +33,14 @@ A minimilistic and extendable react + three js boilerplate to get you started wi
 repo: https://github.com/asjadanis/react-three-boilerplate  
 
 ## Nextjs
+**NextJS Typescript Boilerplate**   
+Bootstrap a developer-friendly NextJS app configured with:  
+Typescript  
+Linting with ESLint   
+Formatting with Prettier  
+Linting, typechecking and formatting on by default using husky for commit hooks   
+Testing with Jest and react-testing-library   
+repo: https://github.com/vercel/next.js/tree/canary/examples/with-typescript-eslint-jest     
 
 **solidity-nextjs-starter**   
 A full stack dApp starter built on Ethereum (Solidity) with Next.js (React)
