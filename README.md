@@ -61,7 +61,10 @@ repo: https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template
 repo: https://github.com/ixartz/Next-js-Boilerplate  
 
 ## Vuejs
-
+**WebExtension Vite Starter**   
+A Vite powered WebExtension (Chrome, FireFox, etc.) starter template.   
+https://github.com/antfu/vitesse-webext    
+   
 **Vue 3 Mad Boiler** 
 A ready-made boilerplate to set up a Vue.JS project which includes the basic structure of styles, package of icons, configure the linter properly, etc.   
 repo: https://github.com/maddevsio/vue-madboiler/?utm_source=blog&utm_medium=boilerplates
