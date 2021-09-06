@@ -76,6 +76,11 @@ repo: https://github.com/creativetimofficial/vue-light-bootstrap-dashboard
 
 ## Nuxtjs
 
+## Other frontend
+
+**tailwind-starter-kit**   
+Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.
+https://github.com/creativetimofficial/tailwind-starter-kit   
 
 ## Nodejs
 **Serverless Node.js Starter**      
