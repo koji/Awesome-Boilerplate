@@ -83,6 +83,9 @@ repo: https://github.com/creativetimofficial/vue-light-bootstrap-dashboard
 ## Nuxtjs
 
 ## Other frontend
+**html5-boilerplate**     
+HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.    
+https://github.com/h5bp/html5-boilerplate    
 
 **tailwind-starter-kit**   
 Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.    
