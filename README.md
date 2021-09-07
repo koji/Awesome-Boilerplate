@@ -33,6 +33,12 @@ A minimilistic and extendable react + three js boilerplate to get you started wi
 repo: https://github.com/asjadanis/react-three-boilerplate  
 
 ## Nextjs
+**strapi-starter-next-corporate**    
+Next starter for creating a corporate site with Strapi.   
+[demo](https://strapi-starter-next-corporate.vercel.app/)     
+https://github.com/strapi/strapi-starter-next-corporate 
+  
+    
 **NextJS Typescript Boilerplate**   
 Bootstrap a developer-friendly NextJS app configured with:  
 Typescript  
